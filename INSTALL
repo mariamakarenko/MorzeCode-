@@ -1,9 +1,8 @@
-Для сборки программы MorzeCode необходимо установить Java SE Development Kit 8u202 который доступен 
-по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Р”Р»СЏ СЃР±РѕСЂРєРё РїСЂРѕРіСЂР°РјРјС‹ MorzeCode РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE Development Kit 8u202 РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ 
+РїРѕ СЃСЃС‹Р»РєРµ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-Команды которые надо выполнить что бы собрать проект
-для сборки запустить скрипт build.bat
+РґР»СЏ СЃР±РѕСЂРєРё Р·Р°РїСѓСЃС‚РёС‚СЊ СЃРєСЂРёРїС‚ build.bat
 
-Для запуска программы MorzeCode необходимо установить Java SE Runtime Environment 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+Р”Р»СЏ Р·Р°РїСѓСЃРєР° РїСЂРѕРіСЂР°РјРјС‹ MorzeCode РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE Runtime Environment 8u202 РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-Для запуска программы использовать скрипт build.bat находящийся в директории build/bin
+Р”Р»СЏ Р·Р°РїСѓСЃРєР° РїСЂРѕРіСЂР°РјРјС‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃРєСЂРёРїС‚ build.bat РЅР°С…РѕРґСЏС‰РёР№СЃСЏ РІ РґРёСЂРµРєС‚РѕСЂРёРё build/bin
